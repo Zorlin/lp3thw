@@ -21,6 +21,8 @@ print("We need to put about", average_passengers_per_car, "in each car.")
 
 # ec4.1
 # No, its not necessary in this case. Output is the same.
+# It's a floating point number which is more accurate in some forms of math
+# than a plain integer, at a minor performance and complexity cost.
 
 # ec4.2 4.4 4.5 4.6
 # Done.
